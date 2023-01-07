@@ -1,3 +1,5 @@
+# Medical Assistant Project
+
 This is a Java Project for a Medical Assistant App which identifies various symptoms and return possible disease to the user. 
 Also if user wants possible symptoms of a particular disease, it returns symptoms for the disease entered by the user.
 This project also take cares of the user data (like user's name and patient id) and information they recieved from the app is all stored inside of a csv file.
